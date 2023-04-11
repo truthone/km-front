@@ -24,10 +24,10 @@
 4. 마이페이이지, 마이아카이브 리스트, 리뷰 상세 정보, 실시간아카이브 코너 구현 
   - 마크업, 데이터패칭, 하트 좋아요 클릭 반영 등
 5. QA 테스트 케이스 작성 및 문제 원인 추적 및 트러블슈팅
+---
+## [본인 기여 부분 - 화면]
 
-### [본인 기여 부분 - 화면]
-
-#### 1~3. 이미지 캐러셀
+### 1~3. 이미지 캐러셀
   | 홈 > 무한 슬라이딩 이미지 캐러셀 | 
   | ----------------------------------|
   |<img src="https://user-images.githubusercontent.com/32234327/231048224-dfa93ffc-8daf-4a70-87b5-4b000f403634.gif" width="350px">|
@@ -38,7 +38,7 @@
   | <img src="https://user-images.githubusercontent.com/32234327/231051507-ab026d35-c3cd-4926-8361-605c8b5e2f63.gif" width="350px">|<img src="https://user-images.githubusercontent.com/32234327/231052447-291104be-c5e3-499d-aa5c-b94954de41a4.gif" width="350px">|
 
 
-#### 4. 실시간 아카이브, 마이페이지, 마이아카이브(리뷰) 
+### 4. 실시간 아카이브, 마이페이지, 마이아카이브(리뷰) 
   | 홈 > 실시간 아카이브 |
   | ------------------- |
   |<img src="https://user-images.githubusercontent.com/32234327/231049947-847292df-019e-4d0d-a2b0-cca5018ea7a4.gif" width="350px">|
@@ -47,6 +47,6 @@
   | ------------------- |------------------- |
   | <img src="https://user-images.githubusercontent.com/32234327/231049810-fb7527b0-0031-4b41-a064-f83c254bb529.png" width="350px">|<img src="https://user-images.githubusercontent.com/32234327/231049856-42daf2dd-88cd-4c24-8e31-2dff88813a64.png" width="350px">|
 
-#### 5. QA 테스트 작성
+### 5. QA 테스트 작성
 - 작성했던 테스트 케이스 링크 : [LINK](https://truthhan.notion.site/QA-e38c7492130b4c79ac8b6e05752c2942)
 
