@@ -35,7 +35,7 @@
   
   | 상세페이지 > 아카이브 캐러셀 | 마이아카이브 캐러셀 |
   | ------------------- |------------------- |
-  | <img src="https://user-images.githubusercontent.com/32234327/231051507-ab026d35-c3cd-4926-8361-605c8b5e2f63.gif" width="350px">|<img src="https://user-images.githubusercontent.com/32234327/231051541-90e00c5d-f597-4a88-86f4-cae215790a7e.gif" width="350px">|
+  | <img src="https://user-images.githubusercontent.com/32234327/231051507-ab026d35-c3cd-4926-8361-605c8b5e2f63.gif" width="350px">|<img src="https://user-images.githubusercontent.com/32234327/231052164-75ca3f7e-bf7d-428f-a014-1782d56033c9.gif" width="350px">|
 
 
 #### 3. 실시간 아카이브, 마이페이지, 마이아카이브(리뷰) 화면 구현 
