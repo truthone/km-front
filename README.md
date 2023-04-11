@@ -18,18 +18,33 @@
 - 마이페이지에서 내가 다녀온 문화생활 아카이브 (리뷰) 저장, 관리
 
 ### [본인 기여 부분]
-- 이미지 캐러셀 모듈 구현
-- 마우스 이벤트를 이용하여 마우스 드래그 동작으로 이미지 스크롤 구현
-- IntersectionObserver 이용하여 불필요한 동작 제거 및 캐러셀 숫자 인덱스 구현
-- 마이페이이지, 마이아카이브 리스트, 리뷰 상세 정보, 실시간아카이브 코너 마크업 및 데이터 패칭 구현
+1. 이미지 캐러셀 모듈 구현
+2. 마우스 drag로 캐러셀 스크롤 구현
+3. IntersectionObserver 이용하여 불필요한 동작 제거 및 캐러셀 숫자 인디케이터 구현
+4. 마이페이이지, 마이아카이브 리스트, 리뷰 상세 정보, 실시간아카이브 코너 구현 
+  - 마크업, 데이터패칭, 하트 좋아요 클릭 반영 등
 - QA 테스트 케이스 작성 및 문제 원인 추적 및 트러블슈팅
 
 ### [본인 기여 부분 - 화면]
 
-#### 1. 홈화면 > 5초 간격 무한 슬라이딩 이미지 캐러셀
-<img src="https://user-images.githubusercontent.com/32234327/231047854-cb4deb78-dd36-46f4-bd18-ba99ea6c2acf.png" width="480px">
+#### 1~3. 이미지 캐러셀
+  | 홈 > 무한 슬라이딩 이미지 캐러셀 | 
+  | ----------------------------------|
+  |<img src="https://user-images.githubusercontent.com/32234327/231048224-dfa93ffc-8daf-4a70-87b5-4b000f403634.gif" width="350px">|
+ 
+  
+  | 상세페이지 > 아카이브 캐러셀 | 마이아카이브 캐러셀 |
+  | ------------------- |------------------- |
+  | <img src="https://user-images.githubusercontent.com/32234327/231051507-ab026d35-c3cd-4926-8361-605c8b5e2f63.gif" width="350px">|<img src="https://user-images.githubusercontent.com/32234327/231051541-90e00c5d-f597-4a88-86f4-cae215790a7e.gif" width="350px">|
 
-#### 2. 이미지 캐러셀 모듈화
 
 #### 3. 실시간 아카이브, 마이페이지, 마이아카이브(리뷰) 화면 구현 
+  | 홈 > 실시간 아카이브 |
+  | ------------------- |
+  |<img src="https://user-images.githubusercontent.com/32234327/231049947-847292df-019e-4d0d-a2b0-cca5018ea7a4.gif" width="350px">|
+
+  | 마이페이지 | 마이페이지 > 마이 아카이브 (나의 리뷰) |
+  | ------------------- |------------------- |
+  | <img src="https://user-images.githubusercontent.com/32234327/231049810-fb7527b0-0031-4b41-a064-f83c254bb529.png" width="350px">|<img src="https://user-images.githubusercontent.com/32234327/231049856-42daf2dd-88cd-4c24-8e31-2dff88813a64.png" width="350px">|
+
 
