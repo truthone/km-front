@@ -47,6 +47,4 @@
   | ------------------- |------------------- |
   | <img src="https://user-images.githubusercontent.com/32234327/231049810-fb7527b0-0031-4b41-a064-f83c254bb529.png" width="350px">|<img src="https://user-images.githubusercontent.com/32234327/231049856-42daf2dd-88cd-4c24-8e31-2dff88813a64.png" width="350px">|
 
-### 5. QA 테스트 작성
-- 작성했던 테스트 케이스 링크 : [LINK](https://truthhan.notion.site/QA-e38c7492130b4c79ac8b6e05752c2942)
 
